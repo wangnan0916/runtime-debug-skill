@@ -1,0 +1,4 @@
+interface:
+  display_name: "Debug Mode"
+  short_description: "Instrumented debug workflow"
+  default_prompt: "Use $debug-mode to investigate a reproducible runtime bug with temporary probes, manual reproduction, log evidence, a minimal fix, and cleanup."
